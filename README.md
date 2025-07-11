@@ -1,7 +1,4 @@
-# Author: Haripriya Bhallam 
-# Date: 2025
 # Customer_Satisfaction_Prediction
-# Import Libraries
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
